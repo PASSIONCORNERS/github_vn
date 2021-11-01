@@ -29,3 +29,5 @@ git checkout <branch name>
 git merge <branch name>
 git branch -d <branch name>
 git push <repo url> <branch name>
+git remote add origin <repo url>
+git push origin <branch name>
