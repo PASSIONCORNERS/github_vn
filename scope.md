@@ -4,6 +4,8 @@ Repository
 Flag
 Branches
 Conflict
+Remote
+Local
 
 ## Commands
 
