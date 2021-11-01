@@ -6,6 +6,7 @@ Branches
 Conflict
 Remote
 Local
+Pull Request
 
 ## Commands
 
