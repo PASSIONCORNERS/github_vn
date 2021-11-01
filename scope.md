@@ -6,6 +6,7 @@ Branches
 Conflict
 Remote
 Local
+Pull Request
 
 ## Commands
 
@@ -31,3 +32,5 @@ git branch -d <branch name>
 git push <repo url> <branch name>
 git remote add origin <repo url>
 git push origin <branch name>
+git clone <repo url>
+git push -u origin <branch name>
