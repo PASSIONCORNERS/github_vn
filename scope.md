@@ -22,4 +22,4 @@ git revert <commit id>
 git reset <commit id>
 git reset --hard <commit id>
 git branch
-git checkout <branch name>
+git checkout -b <branch name>
