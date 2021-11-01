@@ -2,6 +2,7 @@
 
 Repository
 Flag
+Branches
 
 ## Commands
 
@@ -16,7 +17,9 @@ git commit -m "<message>"
 git log
 git log --oneline
 git checkout <commit id>
-git checkout <branch>
+git checkout <branch name>
 git revert <commit id>
 git reset <commit id>
 git reset --hard <commit id>
+git branch
+git checkout <branch name>
