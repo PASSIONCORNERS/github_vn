@@ -1,8 +1,10 @@
-Terms
+## Terms
+
 Repository
 Flag
 
-Commands
+## Commands
+
 git init
 git status
 git add <filename>
