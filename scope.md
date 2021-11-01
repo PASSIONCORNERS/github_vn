@@ -3,6 +3,7 @@
 Repository
 Flag
 Branches
+Conflict
 
 ## Commands
 
