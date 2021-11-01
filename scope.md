@@ -23,3 +23,5 @@ git reset <commit id>
 git reset --hard <commit id>
 git branch
 git checkout <branch name>
+git merge <branch name>
+git branch -d <branch name>
